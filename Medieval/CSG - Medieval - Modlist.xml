@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModList>
+	<Name>CSG - Medieval - Modlist</Name>
+	<modIds>
+		<li>brrainz.harmony</li>
+		<li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>fluffy.modmanager</li>
+		<li>argon.tribalmed</li>
+		<li>gguake.areaninclusionexclusion</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>voult.betterpawncontrol</li>
+		<li>falconne.bwm</li>
+		<li>automatic.bionicicons</li>
+		<li>brrainz.cameraplus</li>
+		<li>fluffy.colonymanager</li>
+		<li>unlimitedhugs.defensivepositions</li>
+		<li>neronix17.embrasures</li>
+		<li>eagle0600.dresspatients</li>
+		<li>dubwise.dubspaintshop</li>
+		<li>dubwise.dubsskylights</li>
+		<li>nunahuralshamikh.entosomnia</li>
+		<li>uuugggg.everybodygetsone</li>
+		<li>mlie.foodalert</li>
+		<li>kikohi.jewelry</li>
+		<li>bg.gfj</li>
+		<li>roolo.giddyupcore</li>
+		<li>sarg.giddyupsaddles</li>
+		<li>roolo.giddyupbattlemounts</li>
+		<li>roolo.giddyupcaravan</li>
+		<li>roolo.giddyuprideandroll</li>
+		<li>linkolas.linkabledoors</li>
+		<li>rimfridge.kv.rw</li>
+		<li>lwm.deepstorage</li>
+		<li>nunahuralshamikh.medp</li>
+		<li>avilmask.microdesignations</li>
+		<li>mlie.morefactioninteraction</li>
+		<li>ltbob.preemptivestrike.rimworld</li>
+		<li>thevillageguy.primitivemoisturepump.1</li>
+		<li>longwater.smartstockpilecreation</li>
+		<li>wemd.realisticdarknesslight</li>
+		<li>jangodsoul.simplestorage</li>
+		<li>jangodsoul.simplestorage.ref</li>
+		<li>primitivestorage.velcroboy333</li>
+		<li>oken.rebalanceddeepstorage</li>
+		<li>automatic.recipeicons</li>
+		<li>vanillaexpanded.vcef</li>
+		<li>regrowth.botr.core</li>
+		<li>regrowth.botr.borealforestexpansion</li>
+		<li>regrowth.botr.core.vpdp</li>
+		<li>sierra.rl</li>
+		<li>mlie.roadsoftherim</li>
+		<li>mlie.storagesearch</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+		<li>vanillaexpanded.vcooke</li>
+		<li>argon.saltedmeat</li>
+		<li>linkolas.stabilize</li>
+		<li>syrchalis.stonerebalance</li>
+		<li>mlie.tribalsignalfire</li>
+		<li>vanillaexpanded.vaebf</li>
+		<li>vanillaexpanded.vaecd</li>
+		<li>vanillaexpanded.vaetf</li>
+		<li>vanillaexpanded.vaet</li>
+		<li>vanillaexpanded.vappe</li>
+		<li>vanillaexpanded.varme</li>
+		<li>vanillaexpanded.vbookse</li>
+		<li>vanillaexpanded.vwe</li>
+		<li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
+		<li>oskarpotocki.vfe.vikings</li>
+		<li>oskarpotocki.vanillaexpanded.royaltypatches</li>
+		<li>vanillaexpanded.vfecore</li>
+		<li>vanillaexpanded.vfeart</li>
+		<li>vanillaexpanded.vfefarming</li>
+		<li>vanillaexpanded.vfepropsanddecor</li>
+		<li>vanillaexpanded.vfesecurity</li>
+		<li>vanillaexpanded.vhe</li>
+		<li>vanillaexpanded.vplantse</li>
+		<li>vanillaexpanded.vtexe</li>
+		<li>beskaren.vtei</li>
+		<li>vanillaexpanded.vanillatraitsexpanded</li>
+		<li>fluffy.worktab</li>
+		<li>odeum.wmbp</li>
+		<li>sargoskar.witcherhunt</li>
+		<li>ogliss.thewhitecrayon.quarry</li>
+		<li>neceros.nominableplasteel</li>
+		<li>neceros.nominablecomponents</li>
+		<li>yuno.execution</li>
+		<li>vanillaexpanded.vee</li>
+		<li>captainmuscles.semirandomresearch</li>
+		<li>vanillaexpanded.vhe.beards</li>
+		<li>hauvega.retromod.walltorchesexpanded</li>
+		<li>aoba.aeroship</li>
+		<li>unlimitedhugs.mapreroll</li>
+		<li>mom.medievalroyaltyfaction</li>
+		<li>fumble.ice</li>
+		<li>vanillaexpanded.vcookestews</li>
+		<li>lumi.throneplus</li>
+		<li>aoba.fortress.neolithic</li>
+		<li>cucumpear.curtains</li>
+	</modIds>
+	<modNames>
+		<li>Harmony</li>
+		<li>Core</li>
+		<li>Royalty</li>
+		<li>Mod Manager</li>
+		<li>Argón's Tribal Medicine</li>
+		<li>Area Inclusion &amp; Exclusion</li>
+		<li>HugsLib</li>
+		<li>Better Pawn Control</li>
+		<li>Better Workbench Management</li>
+		<li>Bionic icons</li>
+		<li>Camera+</li>
+		<li>Colony Manager</li>
+		<li>Defensive Positions</li>
+		<li>[O21] Seamless Embrasures</li>
+		<li>Dress Patients</li>
+		<li>Dub's Paint Shop</li>
+		<li>Dubs Skylights</li>
+		<li>Entosomnia - Medieval Cryptosleep</li>
+		<li>Everybody Gets One</li>
+		<li>Food Alert (Continued)</li>
+		<li>Jewelry</li>
+		<li>Gems for Jewelry</li>
+		<li>Giddy-up! Core</li>
+		<li>Giddy-Up! Add-on: Animal Saddles</li>
+		<li>Giddy-up! Battle Mounts</li>
+		<li>Giddy-up! Caravan</li>
+		<li>Giddy-up! Ride and Roll</li>
+		<li>LinkableDoors (unofficial)</li>
+		<li>[KV] RimFridge</li>
+		<li>LWM's Deep Storage</li>
+		<li>Medieval Prosthetics</li>
+		<li>Micro Designations</li>
+		<li>More Faction Interaction (Continued)</li>
+		<li>Preemptive Strike (Fork)</li>
+		<li>Primitive moisture pump</li>
+		<li>Quick Stockpile Creation</li>
+		<li>[WD] Realistic Darkness (Light)</li>
+		<li>[JDS] Simple Storage</li>
+		<li>[JDS] Simple Storage - Refrigeration</li>
+		<li>Primitive Storage</li>
+		<li>Rebalanced Deep Storage</li>
+		<li>Recipe icons</li>
+		<li>Vanilla Fishing Expanded</li>
+		<li>[HLX] ReGrowth - Core</li>
+		<li>[HLX] ReGrowth - Boreal Forest Expansion</li>
+		<li>[HLX] ReGrowth - Vanilla Plant Density Patch</li>
+		<li>RimLighting</li>
+		<li>Roads of the Rim (Continued)</li>
+		<li>Rimworld Search Agency (Continued)</li>
+		<li>Vanilla Expanded Framework</li>
+		<li>Vanilla Cooking Expanded</li>
+		<li>Salted Meat</li>
+		<li>Stabilize</li>
+		<li>[SYR] Stone Rebalance</li>
+		<li>Tribal Signal Fire (Continued)</li>
+		<li>Vanilla Animals Expanded — Boreal Forest</li>
+		<li>Vanilla Animals Expanded — Cats and Dogs</li>
+		<li>Vanilla Animals Expanded — Temperate Forest</li>
+		<li>Vanilla Animals Expanded — Tundra</li>
+		<li>Vanilla Apparel Expanded</li>
+		<li>Vanilla Armour Expanded</li>
+		<li>Vanilla Books Expanded</li>
+		<li>Vanilla Weapons Expanded</li>
+		<li>Vanilla Factions Expanded - Medieval</li>
+		<li>Vanilla Factions Expanded - Vikings</li>
+		<li>Vanilla Expanded - Royalty Patches</li>
+		<li>Vanilla Furniture Expanded</li>
+		<li>Vanilla Furniture Expanded - Art</li>
+		<li>Vanilla Furniture Expanded - Farming</li>
+		<li>Vanilla Furniture Expanded - Props and Decor</li>
+		<li>Vanilla Furniture Expanded - Security</li>
+		<li>Vanilla Hair Expanded</li>
+		<li>Vanilla Plants Expanded</li>
+		<li>Vanilla Textures Expanded</li>
+		<li>Vanilla Textures Expanded - Icons</li>
+		<li>Vanilla Traits Expanded</li>
+		<li>Work Tab</li>
+		<li>World Map Beautification Project</li>
+		<li>RimWorld - Witcher Monster Hunt</li>
+		<li>Quarry 1.1</li>
+		<li>No Minable Plasteel</li>
+		<li>No Minable Components</li>
+		<li>Execution Mod</li>
+		<li>Vanilla Events Expanded</li>
+		<li>Semi Random Research</li>
+		<li>Vanilla Hair Expanded - Beards</li>
+		<li>Wall Torches Expanded</li>
+		<li>Nothing but just a Royalty Aeroship</li>
+		<li>Map Reroll</li>
+		<li>Medieval Royalty Faction</li>
+		<li>[1.1] Ice</li>
+		<li>Vanilla Cooking Expanded - Stews</li>
+		<li>Thrones plus</li>
+		<li>Fortifications - Neolithic</li>
+		<li>Door Curtains</li>
+	</modNames>
+</ModList>
